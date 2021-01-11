@@ -18,6 +18,8 @@ public class Main{
             	div++;
             }
         }
-        System.out.println(n);     
+        if(n != 1){
+        System.out.println(n); 
+        }
     }
 }
